@@ -21,8 +21,8 @@ An **Electronics and Communication Engineering** student with a strong focus on 
 - 🔹 **EDA Tools:** Hands-on experience with Vivado, KiCad, and open-source HDL toolchains.
 
 ---
+### 📊 GitHub Activity
 
-### 📊 GitHub Stats
-
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshoff0001&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshoff0001&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshoff0001&theme=dark" alt="GitHub Streak" />
+</p>
