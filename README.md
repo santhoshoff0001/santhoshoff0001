@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Santhosh 👋
 
-<!--
-**santhoshoff0001/santhoshoff0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **Electronics and Communication Engineering** student with a strong focus on **VLSI Design**, **Digital Logic**, and **Hardware Architecture**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
+![Digital Design](https://img.shields.io/badge/Domain-Digital%20Design-orange?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/Hardware-FPGA-green?style=for-the-badge)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🚀 Key Focus Areas
+
+- 🔹 **RTL Design & Simulation:** Designing digital blocks and verification using testbenches.
+- 🔹 **Hardware Acceleration:** Implementing hardware-based algorithms (e.g., Sobel Edge Detection core).
+- 🔹 **EDA Tools:** Hands-on experience with Vivado, KiCad, and open-source HDL toolchains.
+
+---
+
+### 📊 GitHub Stats
+
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshoff0001&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshoff0001&layout=compact&theme=dark)
