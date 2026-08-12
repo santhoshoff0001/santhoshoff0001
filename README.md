@@ -23,6 +23,6 @@ An **Electronics and Communication Engineering** student with a strong focus on 
 ---
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshoff0001&theme=dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshoff0001&theme=dark" alt="GitHub Streak" />
+</div>
