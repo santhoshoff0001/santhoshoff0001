@@ -24,5 +24,5 @@ An **Electronics and Communication Engineering** student with a strong focus on 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=santhoshoff0001&theme=dark" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
