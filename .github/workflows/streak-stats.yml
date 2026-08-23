@@ -2,8 +2,8 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  push:
+    - cron: "30 19 * * *"
+  push: 
     paths:
       - ".github/workflows/streak-stats.yml"
   workflow_dispatch:
